@@ -1,0 +1,258 @@
+## What is the data ecosystem? 
+Hello again. You've already learned about being a data analyst
+and how this program will help prepare you for your future career.
+Now, it's time to explore the data ecosystem,
+find out where data analytics fits into that system, and go over some common
+misconceptions you might run into in the field of data analytics.
+To put it simply, an ecosystem is a group of elements that interact with one
+another. Ecosystems can be large, like the jungle in a tropical rainforest
+or the Australian outback.
+Or, tiny, like tadpoles in a puddle, or bacteria on your skin.
+And just like the kangaroos and koala bears in the Australian outback,
+data lives inside its own ecosystem too.
+Data ecosystems are made up of various elements that interact with one another
+in order to produce, manage, store, organize, analyze, and share data.
+These elements include hardware and software tools, and
+the people who use them.
+People like you.
+Data can also be found in something called the cloud.
+The cloud is a place to keep data online, rather than on a computer hard drive.
+So instead of storing data somewhere inside your organization's network,
+that data is accessed over the internet.
+So the cloud is just a term we use to describe the virtual location.
+The cloud plays a big part in the data ecosystem, and as a data analyst, it's
+your job to harness the power of that data ecosystem, find the right information,
+and provide the team with analysis that helps them make smart decisions.
+For example, you could tap into your retail store's database,
+which is an ecosystem filled with customer names, addresses,
+previous purchases, and customer reviews.
+As a data analyst, you could use this information to predict what these
+customers will buy in the future,
+and make sure the store has the products and stock when they're needed.
+As another example,
+let's think about a data ecosystem used by a human resources department.
+This ecosystem would include information like postings from job websites,
+stats on the current labor market,
+employment rates, and social media data on prospective employees.
+A data analyst could use this information to help their team recruit new workers
+and improve employee engagement and retention rates.
+But data ecosystems aren't just for stores and offices. They work on farms, too.
+Agricultural companies regularly use data ecosystems that
+include information including geological patterns in weather movements.
+Data analysts can use this data to help farmers predict crop yields.
+Some data analysts are even using data ecosystems to save real
+environmental ecosystems.
+At the Scripps Institution of Oceanography, coral reefs all over
+the world are monitored digitally, so they can see how organisms change over time,
+track their growth, and measure any increases or
+declines in individual colonies.
+The possibilities are endless.
+Okay, now let's talk about some common misconceptions you might come across.
+First is the difference between data scientists and data analysts.
+It's easy to confuse the two, but what they do is actually very different.
+Data science is defined as creating new ways of modeling and
+understanding the unknown by using raw data.
+Here's a good way to think about it.
+Data scientists create new questions using data, while analysts find
+answers to existing questions by creating insights from data sources.
+There are also many words and
+phrases you'll hear throughout this course, that are easy to get mixed up.
+For example, data analysis and data analytics sound the same,
+but they're actually very different things. Let's start with analysis.
+You've already learned that data analysis is the collection, transformation,
+and organization of data in order to draw conclusions,
+make predictions, and drive informed decision-making.
+Data analytics in the simplest terms is the science of data.
+It's a very broad concept that encompasses everything from the job of managing and
+using data to the tools and methods that data workers use each and every day.
+So when you think about data, data analysis and
+the data ecosystem, it's important to understand that all of these
+things fit under the data analytics umbrella.
+All right, now that you know a little more about the data ecosystem and
+the differences between data analysis and data analytics,
+you're ready to explore how data is used to make effective decisions.
+You'll get to see data-driven decision-making, in action. 
+
+
+
+
+
+## How data informs better decisions
+So far, you've discovered that there are many different ways data can be
+used. In our everyday lives,
+we use data when we wear a fitness tracker or
+read product reviews to make a purchase decision.
+And in business, we use data to learn more about our customers,
+improve processes, and help employees do their jobs more effectively.
+But this is just the tip of the iceberg.
+One of the most powerful ways you can put data to work is with data-driven decision-making.
+Data-driven decision-making is defined as using facts to guide business strategy.
+Organizations in many different industries are empowered to make better,
+data-driven decisions by data analysts all the time.
+The first step in data-driven decision-making is figuring out the business need.
+Usually, this is a problem that needs to be solved.
+For example, a problem could be a new company needing to establish better
+brand recognition, so it can compete with bigger, more well-known competitors.
+Or maybe an organization wants to improve a product and needs to figure out how to
+source parts from a more sustainable or ethically responsible supplier.
+Or, it could be a business trying to solve the problem of unhappy employees,
+low levels of engagement, satisfaction and retention.
+Whatever the problem is, once it's defined, a data analyst finds data,
+analyzes it and uses it to uncover trends, patterns and relationships.
+Sometimes the data-driven strategy will build on what's worked in the past.
+Other times, it can guide a business to branch out in a whole new direction.
+Let's look at a real-world example.
+Think about a music or movie streaming service.
+How do these companies know what people want to watch or listen to,
+and how do they provide it?
+Well using data-driven decision-making,
+they gather information about what their customers are currently listening to,
+analyze it, then use the insights they've gained to make suggestions for
+things people will most likely enjoy in the future.
+This keeps customers happy and
+coming back for more, which in turn means more revenue for the company.
+Another example of data-driven decision-making can be seen in the rise of
+e-commerce.
+It wasn't long ago that most purchases were made in a physical store,
+but the data showed people's preferences were changing.
+So a lot of companies created entirely new business models that remove
+the physical store, and let people shop right from their computers or
+mobile phones with products delivered right to their doorstep.
+In fact, data-driven decision-making can be so powerful,
+it can make entire business methods obsolete.
+For example, data helped companies completely move away from
+corded phones and replace them with mobile phones.
+By ensuring that data is built into every business strategy,
+data analysts play a critical role in their companies' success, but
+it's important to note that no matter how valuable data-driven decision-making is,
+data alone will never be as powerful as data combined with human experience,
+observation, and sometimes even intuition.
+To get the most out of data-driven decision-making, it's important to include
+insights from people who are familiar with the business problem.
+These people are called subject matter experts, and they have the ability to look
+at the results of data analysis and identify any inconsistencies,
+make sense of gray areas, and eventually validate choices being made.
+Organizations that work this way put data at the heart of every business strategy,
+but also benefit from the insights of their people.
+It's a win-win.
+As a data analyst, you play a key role in empowering these organizations to make
+data-driven decisions, which is why it's so important for
+you to understand how data plays a part in the decision-making process. 
+
+Origins of the data analysis process
+
+When you decided to join this program, you proved that you are a curious person. So let’s tap into your curiosity and talk about the origins of data analysis. We don’t fully know when or why the first person decided to record data about people and things. But we do know it was useful because the idea is still around today!  
+A group of co-workers sitting at a table having a discussion. There is a board behind them with several post-it notes.
+
+We also know that data analysis is rooted in statistics, which has a pretty long history itself. Archaeologists mark the start of statistics in ancient Egypt with the building of the pyramids. The ancient Egyptians were masters of organizing data. They documented their calculations and theories on papyri (paper-like materials), which are now viewed as the earliest examples of spreadsheets and checklists. Today’s data analysts owe a lot to those brilliant scribes, who helped create a more technical and efficient process.
+
+It is time to enter the data analysis life cycle—the process of going from data to decision. Data goes through several phases as it gets created, consumed, tested, processed, and reused. With a life cycle model, all key team members can drive success by planning work both up front and at the end of the data analysis process. While the data analysis life cycle is well known among experts, there isn't a single defined structure of those phases. There might not be one single architecture that’s uniformly followed by every data analysis expert, but there are some shared fundamentals in every data analysis process. This reading provides an overview of several, starting with the process that forms the foundation of the Google Data Analytics Certificate.
+
+The process presented as part of the Google Data Analytics Certificate is one that will be valuable to you as you keep moving forward in your career:
+
+    Ask: Business Challenge/Objective/Question
+
+    Prepare: Data generation, collection, storage, and data management
+
+    Process: Data cleaning/data integrity
+
+    Analyze: Data exploration, visualization, and analysis
+
+    Share: Communicating and interpreting results 
+
+    Act:  Putting your insights to work to solve the problem
+
+Understanding this process—and all of the iterations that helped make it popular—will be a big part of guiding your own analysis and your work in this program. Let’s go over a few other variations of the data analysis life cycle.
+EMC's data analysis life cycle
+
+EMC Corporation's data analytics life cycle is cyclical with six steps:
+
+    Discovery
+
+    Pre-processing data
+
+    Model planning
+   
+    Model building
+
+    Communicate results
+
+    Operationalize
+
+EMC Corporation is now Dell EMC. This model, created by David Dietrich, reflects the cyclical nature of real-world projects. The phases aren’t static milestones; each step connects and leads to the next, and eventually repeats. Key questions help analysts test whether they have accomplished enough to move forward and ensure that teams have spent enough time on each of the phases and don’t start modeling before the data is ready. It is a little different from the data analysis life cycle this program is based on, but it has some core ideas in common: the first phase is interested in discovering and asking questions; data has to be prepared before it can be analyzed and used; and then findings should be shared and acted on.
+
+For more information, refer to this e-book, Data Science & Big Data Analytics
+
+.
+SAS's iterative life cycle
+
+An iterative life cycle was created by a company called SAS, a leading data analytics solutions provider. It can be used to produce repeatable, reliable, and predictive results: 
+
+    Ask
+
+    Prepare
+
+    Explore
+
+    Model
+
+    Implement
+
+    Act
+
+    Evaluate
+
+The SAS model emphasizes the cyclical nature of their model by visualizing it as an infinity symbol. Their life cycle has seven steps, many of which we have seen in the other models, like Ask, Prepare, Model, and Act. But this life cycle is also a little different; it includes a step after the act phase designed to help analysts evaluate their solutions and potentially return to the ask phase again. 
+
+For more information, refer to Managing the Analytics Life Cycle for Decisions at Scale
+
+.
+Project-based data analytics life cycle 
+
+A project-based data analytics life cycle has five simple steps:
+
+    Identifying the problem
+
+    Designing data requirements
+
+    Pre-processing data
+
+    Performing data analysis
+
+    Visualizing data
+
+This data analytics project life cycle was developed by Vignesh Prajapati. It doesn’t include the sixth phase, or what we have been referring to as the Act phase. However, it still covers a lot of the same steps as the life cycles we have already described. It begins with identifying the problem, preparing and processing data before analysis, and ends with data visualization.
+
+For more information, refer to Understanding the data analytics project life cycle
+
+.
+Big data analytics life cycle
+
+Authors Thomas Erl, Wajid Khattak, and Paul Buhler proposed a big data analytics life cycle in their book, Big Data Fundamentals: Concepts, Drivers & Techniques. Their life cycle suggests phases divided into nine steps:
+
+    Business case evaluation
+
+    Data identification
+
+    Data acquisition and filtering
+
+    Data extraction
+
+    Data validation and cleaning 
+
+    Data aggregation and representation
+
+    Data analysis
+
+    Data visualization
+
+    Utilization of analysis results
+
+This life cycle appears to have three or four more steps than the previous life cycle models. But in reality, they have just broken down what we have been referring to as Prepare and Process into smaller steps. It emphasizes the individual tasks required for gathering, preparing, and cleaning data before the analysis phase.
+
+For more information, refer to Big Data Adoption and Planning Considerations
+
+. 
+Key takeaway
+
+From our journey to the pyramids and data in ancient Egypt to now, the way we analyze data has evolved (and continues to do so). The data analysis process is like real life architecture, there are different ways to do things but the same core ideas still appear in each model of the process. Whether you use the structure of this Google Data Analytics Certificate or one of the many other iterations you have learned about, we are here to help guide you as you continue on your data journey.
