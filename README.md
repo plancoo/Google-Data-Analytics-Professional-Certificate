@@ -39,7 +39,7 @@ This does not contains any answers for the quiz.
 * Verify and report on your cleaning results
 * Optional: Adding data to your resume
 
-#### *[Overall notes for Course 4 (Process Data from Dirty to Clean)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Process%20Data%20from%20Dirty%20to%20Clean)*    
+#### *[Notes for 4_Process Data from Dirty to Clean]*    
 ----
 
 ## [5. Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics)
@@ -48,7 +48,7 @@ This does not contains any answers for the quiz.
 * Aggregating data for analysis
 * Performing data calculations
 
-#### *[Overall notes for Course 5 (Analyze Data to Answer Questions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Analyze%20Data%20to%20Answer%20Questions/Module%205_(Analyze%20Data%20to%20Answer%20Questions).pdf)*    
+#### *[Notes for  5_Analyze Data to Answer Questions]*    
 ----
 
 
@@ -57,7 +57,7 @@ This does not contains any answers for the quiz.
 * Creating data visualizations with Tableau
 * Crafting data stories
 * Developing presentations and slideshows
-#### *[Overall notes for Course 6 (Share Data Through the Art of Visualization)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Share%20Data%20Through%20the%20Art%20of%20Visualization/Module%206_(Share%20Data%20Through%20the%20Art%20of%20Visualization).pdf)*    
+#### *[Notes for 6_Share Data Through the Art of Visualization]*    
 ----
 
 ## [7. Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics)
@@ -66,5 +66,5 @@ This does not contains any answers for the quiz.
 * Working with data in R
 * More about visualizations, aesthetics, and annotations
 * Documentation and reports
-#### *[Overall notes for Course 7 (Data Analysis with R Programming)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/blob/main/Data%20Analysis%20with%20R%20Programming/Module%207_(Data%20Analysis%20with%20R%20Programming).pdf)*    
+#### *[Notes for 7_Data Analysis with R Programming]*    
 ----
