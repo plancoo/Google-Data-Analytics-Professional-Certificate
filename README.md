@@ -19,7 +19,7 @@ This does not contains any answers for the quiz.
 * Learning spreadsheet basics
 * Always remember the stakeholder
 
-#### *[Overall notes for Course 2 (Ask Questions to Make Data-Driven Decisions)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)*
+#### *[Notes for 2_Ask Questions to Make Data-Driven Decisions)](https://github.com/plancoo/Google-Data-Analytics-Professional-Certificate/tree/main/2_Ask%20Questions%20to%20Make%20Data-Driven%20Decisions)*
 ----
 
 ## [3. Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation?specialization=google-data-analytics)
@@ -29,7 +29,7 @@ This does not contains any answers for the quiz.
 * Organizing and protecting your data
 * Optional: Engaging in the data community
 
-#### *[Overall notes for Course 3 (Prepare Data for Exploration)](https://github.com/Dhamu785/Important-takeaway-Google-data-analytics-professional-certificate/tree/main/Prepare%20Data%20for%20Exploration)*
+#### *[Notes for 3_ Prepare Data for Exploration](https://github.com/plancoo/Google-Data-Analytics-Professional-Certificate/tree/main/3_%20%20%20%20Prepare%20Data%20for%20Exploration)*
 ----
 
 ## [4. Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data?specialization=google-data-analytics)
